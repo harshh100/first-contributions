@@ -70,6 +70,7 @@
 - [Jm Delas Alas](https://github.com/letandconst)
 - [Shishir Chulliyil](https://github.com/shishirchulliyil)
 - [Temple Snowden](https://github.com/temple69)
+- [Harsh](https://github.com/harshh100)
 - [Kunal Sharma](https://github.com/Kunal926/Gender_Classification)
 - [Abdullah Kidwai](https://github.com/fauzank339)
 - [Sulejman Hoxha](https://github.com/sulejmanhoxha)
